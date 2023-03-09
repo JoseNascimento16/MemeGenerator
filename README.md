@@ -11,7 +11,7 @@ Fiz em ambiente Django com Python. Ah e tá responsivo também.
 <li>React</li>
 <li>Python 3.9</li>
 <li>Django 4.1</li>
-<li>Javacript</li>
+<li>Javascript</li>
 <li>HTML and CSS</li>
 <li>Bootstrap</li>
 <li>SQLite</li>
